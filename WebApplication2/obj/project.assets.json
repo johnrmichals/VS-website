@@ -11808,11 +11808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\John Michals\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\John Michals\\source\\repos\\WebApplication2\\VS-website\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\John Michals\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "C:\\Users\\John Michals\\source\\repos\\WebApplication2\\VS-website\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\John Michals\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\John Michals\\source\\repos\\WebApplication2\\WebApplication2\\obj\\",
+      "outputPath": "C:\\Users\\John Michals\\source\\repos\\WebApplication2\\VS-website\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
